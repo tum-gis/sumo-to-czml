@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you found contents of this repository helpful, please consider citing the following related publication."
+authors:
+- family-names: "Beil"
+  given-names: "Christof"
+  orcid: "https://orcid.org/0000-0002-6231-2769"
+- family-names: "Kolbe"
+  given-names: "Thomas H."
+  orcid: "https://orcid.org/0000-0003-1456-0423"
+title: "sumo2czml"
+date-released: 2022-02-19
+url: "https://github.com/tum-gis/sumo2czml"
+preferred-citation:
+  type: article
+  message: "If you found contents of this repository helpful, please consider citing the following related publication."
+  authors:
+  - family-names: "Beil"
+    given-names: "Christof"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Kendir"
+    given-names: "Murat"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Ruhdorfer"
+    given-names: "Roland"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Kolbe"
+    given-names: "Thomas H."
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.5194/isprs-annals-X-4-W2-2022-29-2022"
+  journal: "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+  start: 29
+  end: 36
+  title: "Dynamic and web-based 4D Visualization of Streetspace Activities derived from Traffic Simulations and semantic 3D City Models"
+  volume: X-4/W2-2022
+  year: 2022
